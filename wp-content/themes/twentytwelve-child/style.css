@@ -1,0 +1,18 @@
+/*
+Theme Name:     Twenty Twelve Child
+Theme URI:      http://wordpress.org
+Description:    Child theme for the Twenty Twelve theme
+Author:         hieu.tran
+Author URI:     http://wordpress.org
+Template:       twentytwelve                             
+Version:        0.1.0
+*/
+@import url("../twentytwelve/style.css");
+
+.site {
+    background-color: #EDEDED;
+}
+
+.site-title a, .site-description {
+    color: #D81B1B !important;
+}
